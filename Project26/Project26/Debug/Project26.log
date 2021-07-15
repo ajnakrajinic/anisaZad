@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\ajnakafu\source\repos\Project26\Project26\Source.cpp(289,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ajnakafu\source\repos\Project26\Project26\Source.cpp(334,38): error C2065: 'datum19062021': undeclared identifier
+C:\Users\ajnakafu\source\repos\Project26\Project26\Source.cpp(335,34): error C2065: 'datum20062021': undeclared identifier
+C:\Users\ajnakafu\source\repos\Project26\Project26\Source.cpp(336,36): error C2065: 'datum30062021': undeclared identifier
+C:\Users\ajnakafu\source\repos\Project26\Project26\Source.cpp(337,28): error C2065: 'datum05072021': undeclared identifier
+C:\Users\ajnakafu\source\repos\Project26\Project26\Source.cpp(339,27): error C2065: 'datum05072021': undeclared identifier
+C:\Users\ajnakafu\source\repos\Project26\Project26\Source.cpp(340,27): error C2065: 'datum05072021': undeclared identifier
